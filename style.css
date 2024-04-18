@@ -55,6 +55,12 @@ footer {
 }
 
 
+.appl{
+    
+  width: 35%;
+}
+
+
 .redes {
     display: grid;
     align-items: center;
