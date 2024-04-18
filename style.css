@@ -51,21 +51,14 @@ footer {
 }
 .app{
 
-    width: 2%;
+    width: 50%;
 }
-.appfk{
-    
-    width: 3%;
-}
-.appem{
-    
-    width: 2%;
-}
+
 
 .redes {
     display: grid;
     align-items: center;
     text-align: center;
     justify-content: center;
-    grid-template-columns: 20% 20%  20%  20%  20%;
+    grid-template-columns: 40% 10% 10% 10% 40%;
 }
