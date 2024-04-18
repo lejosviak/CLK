@@ -61,3 +61,11 @@ footer {
     
     width: 2%;
 }
+
+.redes {
+    display: grid;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    grid-template-columns: 20% 20%  20%  20%  20%;
+}
