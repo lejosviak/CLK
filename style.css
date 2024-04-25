@@ -46,6 +46,9 @@ footer {
     padding: 20px;
     text-align: center;
 }
+footer a {
+    color: #fff;
+}
 .foto{
     
     width: 12%;
