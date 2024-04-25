@@ -31,6 +31,8 @@ section {
 #banner {
     background-color: #f2f2f2;
     text-align: center;
+    padding: 0 21%;
+    font-size: 25px;
 }
 
 #services {
@@ -66,5 +68,5 @@ footer {
     align-items: center;
     text-align: center;
     justify-content: center;
-    grid-template-columns: 40% 10% 10% 10% 40%;
+    grid-template-columns: 40% 5% 5% 5% 40%;
 }
